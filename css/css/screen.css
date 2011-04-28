@@ -1,0 +1,27 @@
+/*
+By Joe Pettersson @ http://www.joepettersson.com
+*/
+
+/***** Global Elements *****/
+html, body { border:0; margin:0; padding:0; }
+body { font:12px Arial, Helvetica, sans-serif; background: #d3f8f9 url(../img/page-background.png) repeat;}
+
+img { border:0;}
+a img { border:0 }
+
+a, a:link, a:visited { text-decoration:underline;}
+a:hover {text-decoration: none;}
+
+/***** Global Classes *****/
+.clear:after { content: "."; display: block; height: 0; clear: both; visibility: hidden;}
+.clear { display: inline-block; }
+html[xmlns] .clear { display: block;}
+* html .clear { height: 1%;}
+
+.leftAlig { float:left; }
+.rightAlig { float:right; }
+
+
+/***** Wrapper *****/
+.wrapper { width:600px; margin:0 auto;}
+
