@@ -1,11 +1,11 @@
-This is the main repo for my prohect originally located here: http://www.joepettersson.com/accessible-php-and-jquery-contact-form/
+This is the main repo for my project located here: http://www.joepettersson.com/accessible-php-and-jquery-contact-form/
 
 If you have any problems feel free to file an issue here or contact me at the above link. Feel free to fork and add a pull request if necessary!
 
 Description:
-This is a really accessible and well validated contact form powered by PHP and jQuery. The design is based on Orman Clark’s ‘Clean and Simple Signup Form‘.
+This is a really accessible and well validated contact form powered by PHP and jQuery. The design is based on Orman Clark's 'Clean and Simple Signup Form'.
 
-Using both serverside PHP and client-side input validation (powered by Jorn Zaefferer’s great jQuery Validation Plugin) this form is developed using ARIA accessibility standards, making it one of the most accessible and reliable contact forms available.
+Using both serverside PHP and client-side input validation (powered by Jorn Zaefferer's great jQuery Validation Plugin) this form is developed using ARIA accessibility standards, making it one of the most accessible and reliable contact forms available.
 
 License:
 Creative Commons Attribution 3.0 Unported License.
